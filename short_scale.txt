@@ -1,0 +1,11 @@
+2,hundred
+3,thousand
+6,million
+9,billion
+12,trillion
+15,quadrillion
+18,quintillion
+21,sextillion
+24,septillion
+27,octillion		
+30,nonillion

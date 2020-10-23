@@ -1,0 +1,11 @@
+2,hundred
+3,thousand
+6,million
+9,thousand million
+12,billion
+15,thousand billion
+18,trillion
+21,thousand trillion
+24,quadrillion
+27,thousand quadrillion		
+30,quintillion
